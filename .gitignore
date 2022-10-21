@@ -1,0 +1,13 @@
+node_modules
+.expo/
+dist/
+npm_debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobilepermission
+*.origin.*
+web_build/
+#macOS
+.DS_Store
